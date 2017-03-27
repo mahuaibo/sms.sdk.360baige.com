@@ -2,7 +2,7 @@ package client
 
 import (
 	"fmt"
-	"test/util"
+	"sms.sdk.360baige.com/util"
 	"net/http"
 	"net/url"
 	"time"
